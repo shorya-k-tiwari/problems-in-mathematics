@@ -1,32 +1,18 @@
-# Problems in Mathematics
+# 03 - Coordinate Geometry
 
-A systematic repository dedicated to the **formalization of mathematical reasoning through computation**. This project serves as a digital bridge between theoretical problem-solving and algorithmic implementation.
+This directory explores the **Analytical Geometry** of two-dimensional space. It is the study of geometry using a coordinate system, bridging the gap between algebraic equations and visual curves.
+
+### 🔭 Areas of Focus
+* **Linear Systems:** Properties of straight lines, slopes, and angular relationships.
+* **Circular Motion & Logic:** Equations of circles, tangents, and normal properties.
+* **Conic Sections:** Detailed analysis of the Parabola, Ellipse, and Hyperbola.
+* **Geometric Locus:** Solving problems based on the path traced by moving points under specific constraints.
+
+### 🧠 Computational Objectives
+The focus in this section is on **Geometric Visualization**:
+1. Using `Matplotlib` to render precise conic sections and their intersecting lines.
+2. Building scripts to find and verify the properties of tangents and normals at specific points.
+3. Solving for the "Locus" of points through numerical simulation to verify analytical derivations.
 
 ---
-
-### 🎯 Project Scope
-This repository contains Python-based solutions and visualizations for complex problems sourced from:
-* **Advanced Engineering Curricula:** (JEE Advanced level Calculus, Algebra, and Geometry)
-* **Academic Frameworks:** (MIT OCW 18.06)
-* **Mathematical Olympiads:** (Logic-based challenges and discrete structures)
-
-### 🏗️ Structure
-The repository is organized by mathematical branch to ensure systematic navigation and scalability:
-
-* **`01-Calculus`** – Limits, Continuity, Differentiation, and Integration.
-* **`02-Algebra`** – Complex Numbers, Matrices, Determinants, and Probability.
-* **`03-Coordinate-Geometry`** – Analytical Geometry of 2D and 3D systems.
-* **`04-Trigonometry`** – Identities, Inverse Functions, and Equations.
-* **`05-Vectors-3D-Geometry`** – Vector Algebra and Spatial Logic.
-
-### 🛠️ Tech Stack
-* **Language:** Python 3.x
-* **Symbolic Math:** `SymPy` (for exact solutions and verification)
-* **Computation:** `NumPy` (for numerical methods)
-* **Visualization:** `Matplotlib` (for geometric and functional plotting)
-
-### 💡 Intent
-This repository is a **long-term body of work** focused on developing mathematical discipline and precision. It documents the transition from abstract theory to executable logic.
-
-### 📈 Objective
-To build the foundational intuition and rigorous problem-solving maturity required for advanced research in Artificial Intelligence and Computational Mathematics.
+"The intersection of algebra and geometry is where the abstract becomes visible."
